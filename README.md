@@ -1,19 +1,5 @@
 ``markdown
 ---
-title: BMI Calculator
-emoji: ⚖️
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-app_port: 8501
-tags:
-- health
-- streamlit
-- calculator
-pinned: false
-license: mit
----
-
 # ⚖️ Streamlit BMI Calculator
 
 A simple web application that calculates Body Mass Index (BMI) and classifies weight status according to WHO standards.
